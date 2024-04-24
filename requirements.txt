@@ -1,2 +1,4 @@
 streamlit
 summa
+nltk
+sumy
